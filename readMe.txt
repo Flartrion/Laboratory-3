@@ -1,1 +1,1 @@
-Apparently there are some problems with unpacking and then loading this project.
+Unpack before launching. Better use Firefox.
